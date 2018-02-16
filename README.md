@@ -9,7 +9,7 @@ $ go get github.com/ohmk/edgex_exporter
 $ cd $GOPATH/src/github.com/ohmk/edgex_exporter
 $ make
 $ ./edgex_exporter [flags]
-$ curl http://localhost:8410/metrics
+$ curl http://localhost:9410/metrics
 ```
 
 ## Exported Metrics
